@@ -9,13 +9,13 @@
 ![Imgur](http://i.imgur.com/LuZMrH8.png?1)
 
 1. „Überlege“ wünschenswertes Verhalten,
-das im Moment nicht vorhanden  ist.
+das im Moment nicht vorhanden  ist.\s\s
 2. Schreibe einen Testfall der dieses
 Verhalten erzeugt (und somit auch
-fehlschlägt).
+fehlschlägt).\s\s
 3. Schreibe Code der den Testfall nicht
-mehr fehlschlagen lässt.
-4. Verbessere  den Code  durch Refactoring.
+mehr fehlschlagen lässt.\s\s
+4. Verbessere  den Code  durch Refactoring.\s\s
 
 ## Pro
 * "freie" Unittests und komplette Test-Suite entsteht bei der Entwicklung mit TDD
