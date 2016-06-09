@@ -7,6 +7,7 @@
 
 ## Vorgehen
 ![Imgur](http://i.imgur.com/LuZMrH8.png?1)
+
 1. „Überlege“ wünschenswertes Verhalten,
 das im Moment nicht vorhanden  ist.
 2. Schreibe einen Testfall der dieses
